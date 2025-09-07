@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Casey!
 
-<!--
-**caseychin/caseychin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ About Me
+CS & ECON @ RIT '27
+I like building things, learning as I go, and having fun.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me
+- [LinkedIn] (https://www.linkedin.com/in/caseyechin/)  
+- 📧 caseyemchin@gmail.com 
+
+---
+
+### 📂 Featured Projects
+- [fall-ai-studio-project](https://github.com/your-username/fall-ai-studio-project) – End-to-end AI project (overview, methodology, results, visualizations, docs included)  
+- [project-2-name](https://github.com/your-username/project-2) – Short description here  
+- [project-3-name](https://github.com/your-username/project-3) – Short description here  
+
