@@ -1,4 +1,4 @@
-# Hey, I'm Casey!
+# Hiya!
 
 ### ⚡ About Me
 CS & ECON @ RIT '27
