@@ -1,8 +1,8 @@
-# Hiya!
+## Hiya!
 
 ### ⚡ About Me
-CS & ECON @ RIT '27
-I like building things, learning as I go, and having fun.
+- CS & ECON @ RIT
+- I like building things, learning as I go, and having fun.
 
 ---
 
